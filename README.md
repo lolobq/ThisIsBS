@@ -1,5 +1,5 @@
 # ThisIsBS
-This is a simple card game of BS written in C++. It was created as a final project for my Computer Utilization in C++ class.
+This is a simple card game of BS written in C++. It was created as a final project for my ECGR 2103 Computer Utilization in C++ class.
 
 ## 1. Specifics
 Bots are generated if less than 3 players are playing.
